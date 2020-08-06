@@ -13,7 +13,7 @@ class MyText extends StatelessWidget {
         child: Text(
           newText,
           textAlign: TextAlign.center,
-          style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),softWrap: true,
+          style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
         ),
       ),
     );
